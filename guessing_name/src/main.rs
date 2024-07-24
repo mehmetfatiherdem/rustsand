@@ -2,7 +2,7 @@ use rand::Rng;
 use std::cmp::Ordering;
 use std::io;
 
-
+// left at page 44 in rust-book.pdf
 fn main() {
     println!("Guess the number!");
 
